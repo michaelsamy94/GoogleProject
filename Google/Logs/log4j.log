@@ -1,0 +1,445 @@
+2021-06-19 11:19:51 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-19 11:19:52 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-19 11:19:52 ERROR Log:33 - Unable to type text "Vodafone" in element By.name: q
+2021-06-19 11:19:58 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-19 11:19:58 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-19 11:19:58 ERROR Log:33 - Unable to type text "Test Automation" in element By.name: q
+2021-06-19 11:20:39 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-19 11:20:39 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-19 11:20:53 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-19 11:20:53 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-19 11:20:56 INFO  Log:21 - Searching for Test Automation
+2021-06-19 11:50:16 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-19 11:50:16 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-19 11:50:20 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-19 11:50:21 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-19 11:50:23 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-19 11:50:28 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-19 11:50:28 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-19 11:50:31 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-19 11:50:31 INFO  Log:21 - Searching for Test Automation
+2021-06-19 11:50:33 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-19 11:55:01 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-19 11:55:04 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-19 11:55:07 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-19 11:55:09 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-19 11:55:11 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-19 11:55:16 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-19 11:55:17 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-19 11:55:19 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-19 11:55:19 INFO  Log:21 - Searching for Test Automation
+2021-06-19 11:55:21 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-20 20:52:12 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-20 20:52:54 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-21 15:38:27 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-21 15:38:29 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-21 15:39:39 ERROR Log:33 - Unable to click on element (By.name: btnK)
+2021-06-21 15:40:21 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 15:40:37 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 16:22:18 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-21 16:22:18 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-21 16:22:22 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-21 16:22:23 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 16:22:25 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 16:22:32 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-21 16:22:33 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-21 16:22:35 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-21 16:22:35 INFO  Log:21 - Searching for Test Automation
+2021-06-21 16:22:36 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 16:42:42 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-21 16:42:43 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-21 16:42:46 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-21 16:42:49 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 16:42:51 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 16:42:58 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-21 16:42:58 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-21 16:43:00 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-21 16:43:00 INFO  Log:21 - Searching for Test Automation
+2021-06-21 16:43:02 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 17:44:43 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-21 17:44:43 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-21 17:44:43 ERROR Log:33 - Unable to click on element (By.name: btnK)
+2021-06-21 17:45:03 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-21 17:45:03 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-21 17:45:03 ERROR Log:33 - Unable to click on element (By.name: btnK)
+2021-06-21 17:45:23 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-21 17:45:23 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-21 17:45:23 ERROR Log:33 - Unable to click on element (By.name: btnK)
+2021-06-21 17:45:23 INFO  Log:21 - Searching for Test Automation
+2021-06-21 17:46:41 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-21 17:46:41 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-21 17:46:44 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-21 17:46:47 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 17:46:48 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 17:46:49 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 17:46:50 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 17:46:56 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-21 17:46:56 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-21 17:46:59 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-21 17:47:00 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 17:47:02 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 17:47:03 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 17:47:04 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 17:47:09 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-21 17:47:09 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-21 17:47:12 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-21 17:47:12 INFO  Log:21 - Searching for Test Automation
+2021-06-21 17:47:14 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-21 17:56:12 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-21 17:56:12 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-21 17:56:12 ERROR Log:33 - Unable to click on element (By.name: btnK)
+2021-06-21 17:56:33 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-21 17:56:33 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-21 17:56:33 ERROR Log:33 - Unable to click on element (By.name: btnK)
+2021-06-21 17:56:54 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-21 17:56:54 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-21 17:56:54 ERROR Log:33 - Unable to click on element (By.name: btnK)
+2021-06-21 17:56:54 INFO  Log:21 - Searching for Test Automation
+2021-06-22 04:04:52 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:04:52 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-22 04:04:52 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:04:55 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 04:04:57 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:04:58 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:05:00 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:05:00 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:05:17 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:05:17 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-22 04:05:17 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:05:21 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 04:05:23 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:05:23 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:05:24 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:05:26 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:05:38 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:05:38 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-22 04:05:38 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:05:41 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 04:05:41 INFO  Log:21 - Searching for Test Automation
+2021-06-22 04:05:42 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:12:57 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:12:57 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-22 04:12:58 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:13:01 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 04:13:02 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:13:04 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:13:10 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:13:10 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-22 04:13:11 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:13:12 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 04:13:14 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:13:15 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:13:19 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:13:20 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-22 04:13:20 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:13:22 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 04:13:22 INFO  Log:21 - Searching for Test Automation
+2021-06-22 04:13:24 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:20:53 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:20:53 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-22 04:20:53 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:20:55 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 04:20:57 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:20:58 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:21:04 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:21:04 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-22 04:21:05 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:21:07 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 04:21:09 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:21:10 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:21:17 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:21:17 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-22 04:21:18 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:21:19 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 04:21:19 INFO  Log:21 - Searching for Test Automation
+2021-06-22 04:21:21 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:37:31 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:38:13 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-22 04:38:14 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:38:14 ERROR Log:33 - Unable to click on element (By.name: btnK)
+2021-06-22 04:38:29 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:38:50 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-22 04:38:51 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:38:52 ERROR Log:33 - Unable to click on element (By.name: btnK)
+2021-06-22 04:39:07 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:40:23 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-22 04:40:24 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:40:25 ERROR Log:33 - Unable to click on element (By.name: btnK)
+2021-06-22 04:40:25 INFO  Log:21 - Searching for Test Automation
+2021-06-22 04:44:01 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:44:42 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-22 04:44:44 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:44:44 ERROR Log:33 - Unable to click on element (By.name: btnK)
+2021-06-22 04:44:59 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:45:21 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-22 04:45:23 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:45:38 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:46:54 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-22 04:46:57 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:48:40 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:48:44 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-22 04:48:46 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:49:00 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:49:04 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-22 04:49:06 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:49:20 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:49:25 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-22 04:49:29 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:50:58 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:51:00 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-22 04:51:01 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:51:04 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 04:51:07 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:51:09 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:51:14 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:51:15 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-22 04:51:16 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:51:19 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 04:51:20 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:51:23 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:51:28 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:51:31 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-22 04:51:32 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:51:35 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 04:51:35 INFO  Log:21 - Searching for Test Automation
+2021-06-22 04:51:37 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:58:51 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:58:53 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-22 04:58:54 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:58:55 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 04:58:57 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:59:00 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:59:04 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:59:05 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-22 04:59:06 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:59:08 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 04:59:09 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:59:12 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 04:59:16 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 04:59:19 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-22 04:59:20 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 04:59:22 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 04:59:22 INFO  Log:21 - Searching for Test Automation
+2021-06-22 04:59:24 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:05:37 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:05:37 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-22 05:05:37 ERROR Log:33 - Unable to type text "Test Automation" in element By.name: q
+2021-06-22 05:07:04 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:07:04 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-22 05:07:05 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:07:07 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:07:08 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:07:09 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:07:22 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:07:22 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-22 05:07:22 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:07:24 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:07:26 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:07:27 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:07:38 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:07:38 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-22 05:07:38 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:07:41 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:07:41 INFO  Log:21 - Searching for Test Automation
+2021-06-22 05:07:42 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:13:27 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:13:27 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-22 05:13:27 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:13:29 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:13:30 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:13:31 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:13:42 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:13:42 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-22 05:13:42 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:13:44 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:13:45 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:13:45 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:13:59 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:14:00 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-22 05:14:00 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:14:03 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:14:03 INFO  Log:21 - Searching for Test Automation
+2021-06-22 05:14:04 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:27:17 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:27:17 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-22 05:27:19 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:27:21 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:27:23 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:27:25 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:27:40 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:27:40 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-22 05:27:40 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:27:42 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:27:43 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:27:43 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:27:57 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:27:57 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-22 05:27:57 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:28:01 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:28:01 INFO  Log:21 - Searching for Test Automation
+2021-06-22 05:28:03 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:32:55 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:32:55 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-22 05:32:55 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:32:58 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:32:59 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:33:01 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:33:14 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:33:14 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-22 05:33:14 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:33:17 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:33:18 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:33:18 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:33:29 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:33:29 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-22 05:33:29 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:33:31 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:33:31 INFO  Log:21 - Searching for Test Automation
+2021-06-22 05:33:32 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:39:09 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:39:09 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-22 05:39:09 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:39:13 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:39:15 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:39:17 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:39:29 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:39:29 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-22 05:39:29 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:39:33 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:39:35 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:39:36 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:39:46 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:39:46 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-22 05:39:47 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:39:49 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:39:49 INFO  Log:21 - Searching for Test Automation
+2021-06-22 05:39:49 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:46:51 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:46:51 INFO  Log:21 - Typed text "Vodafone" in element By.name: q
+2021-06-22 05:46:51 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:46:54 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:46:56 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:46:58 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:47:08 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:47:08 INFO  Log:21 - Typed text "VOIS" in element By.name: q
+2021-06-22 05:47:08 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:47:11 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:47:14 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:47:15 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 05:47:24 INFO  Log:11 - =====================================Search Test Case TEST START=========================================
+2021-06-22 05:47:24 INFO  Log:21 - Typed text "Test Automation" in element By.name: q
+2021-06-22 05:47:24 INFO  Log:21 - Clicked on element (By.name: q)
+2021-06-22 05:47:27 INFO  Log:21 - Clicked on element (By.name: btnK)
+2021-06-22 05:47:27 INFO  Log:21 - Searching for Test Automation
+2021-06-22 05:47:29 INFO  Log:21 - Clicked on element (By.id: pnnext)
+2021-06-22 10:12:11 INFO  Log:21 - =====================================Search Test Case TEST START=========================================
+2021-06-22 10:12:12 INFO  Log:42 - Typed text "Vodafone" in element By.name: q
+2021-06-22 10:12:14 INFO  Log:42 - Clicked on element (By.name: q)
+2021-06-22 10:12:19 INFO  Log:42 - Clicked on element (By.name: btnK)
+2021-06-22 10:12:22 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 10:12:22 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 10:12:24 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 10:12:24 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 10:12:38 INFO  Log:21 - =====================================Search Test Case TEST START=========================================
+2021-06-22 10:12:38 INFO  Log:42 - Typed text "VOIS" in element By.name: q
+2021-06-22 10:12:38 INFO  Log:42 - Clicked on element (By.name: q)
+2021-06-22 10:12:43 INFO  Log:42 - Clicked on element (By.name: btnK)
+2021-06-22 10:12:45 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 10:12:45 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 10:12:47 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 10:12:47 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 10:12:59 INFO  Log:21 - =====================================Search Test Case TEST START=========================================
+2021-06-22 10:12:59 INFO  Log:42 - Typed text "Test Automation" in element By.name: q
+2021-06-22 10:13:00 INFO  Log:42 - Clicked on element (By.name: q)
+2021-06-22 10:13:04 INFO  Log:42 - Clicked on element (By.name: btnK)
+2021-06-22 10:13:04 INFO  Log:42 - Searching for Test Automation
+2021-06-22 10:13:06 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 10:13:06 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:17:14 INFO  Log:21 - =====================================Search Test Case TEST START=========================================
+2021-06-22 13:17:14 INFO  Log:42 - Typed text "Vodafone" in element By.name: q
+2021-06-22 13:17:14 INFO  Log:42 - Clicked on element (By.name: q)
+2021-06-22 13:17:16 INFO  Log:42 - Clicked on element (By.name: btnK)
+2021-06-22 13:17:18 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:17:18 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:17:20 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:17:20 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:17:38 INFO  Log:21 - =====================================Search Test Case TEST START=========================================
+2021-06-22 13:17:39 INFO  Log:42 - Typed text "VOIS" in element By.name: q
+2021-06-22 13:17:39 INFO  Log:42 - Clicked on element (By.name: q)
+2021-06-22 13:17:39 ERROR Log:64 - Unable to click on element (By.name: btnK)
+2021-06-22 13:18:02 INFO  Log:21 - =====================================Search Test Case TEST START=========================================
+2021-06-22 13:18:02 INFO  Log:42 - Typed text "Test Automation" in element By.name: q
+2021-06-22 13:18:02 INFO  Log:42 - Clicked on element (By.name: q)
+2021-06-22 13:18:04 INFO  Log:42 - Clicked on element (By.name: btnK)
+2021-06-22 13:18:04 INFO  Log:42 - Searching for Test Automation
+2021-06-22 13:18:05 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:18:05 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:21:25 INFO  Log:21 - =====================================Search Test Case TEST START=========================================
+2021-06-22 13:21:25 INFO  Log:42 - Typed text "Vodafone" in element By.name: q
+2021-06-22 13:21:26 INFO  Log:42 - Clicked on element (By.name: q)
+2021-06-22 13:21:29 INFO  Log:42 - Clicked on element (By.name: btnK)
+2021-06-22 13:21:30 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:21:30 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:21:32 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:21:32 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:21:47 INFO  Log:21 - =====================================Search Test Case TEST START=========================================
+2021-06-22 13:21:47 INFO  Log:42 - Typed text "VOIS" in element By.name: q
+2021-06-22 13:21:47 INFO  Log:42 - Clicked on element (By.name: q)
+2021-06-22 13:21:51 INFO  Log:42 - Clicked on element (By.name: btnK)
+2021-06-22 13:21:52 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:21:52 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:21:53 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:21:53 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:22:11 INFO  Log:21 - =====================================Search Test Case TEST START=========================================
+2021-06-22 13:22:12 INFO  Log:42 - Typed text "Test Automation" in element By.name: q
+2021-06-22 13:22:12 INFO  Log:42 - Clicked on element (By.name: q)
+2021-06-22 13:22:15 INFO  Log:42 - Clicked on element (By.name: btnK)
+2021-06-22 13:22:15 INFO  Log:42 - Searching for Test Automation
+2021-06-22 13:22:19 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:22:19 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:31:15 INFO  Log:21 - =====================================Search Test Case TEST START=========================================
+2021-06-22 13:31:16 INFO  Log:42 - Typed text "Vodafone" in element By.name: q
+2021-06-22 13:31:17 INFO  Log:42 - Clicked on element (By.name: q)
+2021-06-22 13:31:21 INFO  Log:42 - Clicked on element (By.name: btnK)
+2021-06-22 13:31:23 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:31:23 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:31:24 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:31:24 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:31:33 INFO  Log:21 - =====================================Search Test Case TEST START=========================================
+2021-06-22 13:31:33 INFO  Log:42 - Typed text "VOIS" in element By.name: q
+2021-06-22 13:31:36 INFO  Log:42 - Clicked on element (By.name: q)
+2021-06-22 13:31:38 INFO  Log:42 - Clicked on element (By.name: btnK)
+2021-06-22 13:31:39 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:31:39 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:31:40 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:31:40 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:31:50 INFO  Log:21 - =====================================Search Test Case TEST START=========================================
+2021-06-22 13:31:50 INFO  Log:42 - Typed text "Test Automation" in element By.name: q
+2021-06-22 13:31:50 INFO  Log:42 - Clicked on element (By.name: q)
+2021-06-22 13:31:56 INFO  Log:42 - Clicked on element (By.name: btnK)
+2021-06-22 13:31:56 INFO  Log:42 - Searching for Test Automation
+2021-06-22 13:31:57 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:31:57 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:34:18 INFO  Log:21 - =====================================Search Test Case TEST START=========================================
+2021-06-22 13:34:21 INFO  Log:42 - Typed text "Vodafone" in element By.name: q
+2021-06-22 13:34:22 INFO  Log:42 - Clicked on element (By.name: q)
+2021-06-22 13:34:23 INFO  Log:42 - Clicked on element (By.name: btnK)
+2021-06-22 13:34:32 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:34:32 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:34:34 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:34:35 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:34:41 INFO  Log:21 - =====================================Search Test Case TEST START=========================================
+2021-06-22 13:34:43 INFO  Log:42 - Typed text "VOIS" in element By.name: q
+2021-06-22 13:34:44 INFO  Log:42 - Clicked on element (By.name: q)
+2021-06-22 13:34:48 INFO  Log:42 - Clicked on element (By.name: btnK)
+2021-06-22 13:34:50 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:34:51 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:34:53 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:34:53 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
+2021-06-22 13:34:59 INFO  Log:21 - =====================================Search Test Case TEST START=========================================
+2021-06-22 13:35:02 INFO  Log:42 - Typed text "Test Automation" in element By.name: q
+2021-06-22 13:35:03 INFO  Log:42 - Clicked on element (By.name: q)
+2021-06-22 13:35:06 INFO  Log:42 - Clicked on element (By.name: btnK)
+2021-06-22 13:35:06 INFO  Log:42 - Searching for Test Automation
+2021-06-22 13:35:09 INFO  Log:42 - Clicked on element (By.id: pnnext)
+2021-06-22 13:35:09 INFO  Log:42 - Count number of elements (By.xpath: //div[@id='rso']/div)
